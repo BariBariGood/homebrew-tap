@@ -5,7 +5,7 @@ class Manzanas < Formula
   desc "Client CLI for manzanasd, the multi-agent iOS simulator fleet daemon"
   homepage "https://github.com/BariBariGood/manzanas"
   url "https://github.com/BariBariGood/manzanas.git",
-      tag: "v0.2.0"
+      tag: "v0.3.0"
   license "MIT"
   head "https://github.com/BariBariGood/manzanas.git", branch: "main"
 
